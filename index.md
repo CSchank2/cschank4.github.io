@@ -2,6 +2,8 @@
 
 ## Software Architect's Website
 
+[About Me](about)
+
 Welcome to my website! How are you today? Please visit our [McMaster Start Coding](http://outreach.mcmaster.ca) website.
 
 List of colours I like:
