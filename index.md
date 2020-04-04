@@ -1,6 +1,7 @@
 # Welcome!
 
 [About Me](about) | [A Day in the Life](dayinthelife) | [Play our COVID-19 Game!](https://macoutreach.rocks/COVID19.html)
+Chris | Yumna | Pedram
 
 ## Software Architect's Website
 
