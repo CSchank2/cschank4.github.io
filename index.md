@@ -1,8 +1,6 @@
 # Welcome!
 
-[About Me](about)
-
-[Play our COVID-19 Game!](https://macoutreach.rocks/COVID19.html)
+[About Me](about) | [A Day in the Life](dayinthelife) | [Play our COVID-19 Game!](https://macoutreach.rocks/COVID19.html)
 
 ## Software Architect's Website
 
