@@ -13,6 +13,14 @@ List of colours I like:
 - Salmon
 - Pink
 
+Here's how you make the list above:
+
+```
+- Green
+- Salmon
+- Pink
+```
+
 ![Architect](https://thenypost.files.wordpress.com/2018/04/shutterstock_536332153.jpg?quality=90&strip=all&w=1200)
 
 
