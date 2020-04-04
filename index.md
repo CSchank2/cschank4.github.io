@@ -2,6 +2,8 @@
 
 [About Me](about)
 
+[Play our COVID-19 Game!](https://macoutreach.rocks/COVID19.html)
+
 ## Software Architect's Website
 
 Welcome to my website! How are you today? Please visit our [McMaster Start Coding](http://outreach.mcmaster.ca) website.
